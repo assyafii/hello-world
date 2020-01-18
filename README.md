@@ -1,2 +1,3 @@
-# hello-world
-Hello Luthfi 
+# Hello World
+Hello, my name is Luthfi
+This first commit :)
